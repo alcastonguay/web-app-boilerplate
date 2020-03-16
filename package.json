@@ -1,0 +1,27 @@
+{
+  "name": "web-app-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for web apps using the Express.js web framework.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcastonguay/web-app-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "express.js",
+    "node.js"
+  ],
+  "author": "alcastonguay",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/alcastonguay/web-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/alcastonguay/web-app-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
